@@ -2,3 +2,6 @@ testfff
 function test(){
 a = a+b;
 }
+function test2(){
+a = a+b;
+}
