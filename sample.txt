@@ -1,1 +1,4 @@
 testfff
+function test(){
+a = a+b;
+}
